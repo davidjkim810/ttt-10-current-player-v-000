@@ -14,6 +14,5 @@ def current_player(board)
    "X"
  elsif turnnumber.odd?
    "O"
-
  end
 end
